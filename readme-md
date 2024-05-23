@@ -1,0 +1,10 @@
+## Install runner
+
+```
+npm install cypress --save-dev
+```
+
+## Star cypress
+
+```
+npx cypress open
